@@ -1,1 +1,8 @@
 /* Put your CSS Styling here! */
+.task{
+	background-color: green;
+}
+
+*{
+	color: blue;
+}
